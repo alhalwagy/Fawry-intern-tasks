@@ -1,0 +1,17 @@
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/AuthenticationApplication.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/common/model/ErrorModel.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/common/model/RequestLoginModel.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/common/model/RequestRegisterModel.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/common/model/ResponseAuthenticationModel.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/common/model/UserModel.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/exceptions/GlobalExceptionHandler.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/exceptions/customExceptions/NotAuthenticatedException.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/exceptions/customExceptions/UserIsAlreadyExistException.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/repository/UserRepository.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/repository/entity/User.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/rest/AuthenticationResource.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/security/SecurityConfig.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/services/AuthenticationService.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/services/impl/AuthenticationServiceImpl.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/utils/AESEncryptionUtil.java
+/home/hlwg/Desktop/Fawry/springboot-login-register/src/main/java/com/fawry/authentication/utils/FileReaderUtil.java
